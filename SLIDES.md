@@ -2765,8 +2765,6 @@ mv tsconfig.json jsconfig.json
 
 A deep dive into TSC & JSDoc with Vanilla JS!
 
-
-
 ## JS with Types
 
 [comment]: # "!!! data-auto-animate"
