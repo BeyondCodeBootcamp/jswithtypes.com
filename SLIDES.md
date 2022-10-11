@@ -6,7 +6,7 @@
 [comment]: # "hash: false"
 [comment]: # "respondToHashChanges: false"
 
-## JS with Types 💪
+## JS with Types 💪 com
 
 Types without Transpilation
 
@@ -25,6 +25,8 @@ allowfullscreen></iframe>
 
 <!--strong><a href="https://npmjs.org/jswt" target="_blank">NPM:
 jswt</a></strong-->
+
+<small><a href="https://jswithtypes.com" target="_blank">https://jswithtypes.com</a></small>
 
 [comment]: # "!!! data-auto-animate"
 
