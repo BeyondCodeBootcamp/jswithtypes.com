@@ -1,10 +1,9 @@
-## JS with Types 💪 com
+<h2><a href="https://jswithtypes.com" target="_blank">JS with Types 💪 com</a></h2>
 
 Types without Transpilation
 
 <iframe
-width="560"
-height="315"
+style="width: 32cqw; height: 18cqw;"
 src="https://www.youtube-nocookie.com/embed/93_knuo_VQs"
 title="YouTube video player"
 frameborder="0"
@@ -18,7 +17,7 @@ allowfullscreen></iframe>
 <!--strong><a href="https://npmjs.org/jswt" target="_blank">NPM:
 jswt</a></strong-->
 
-<small><a href="https://jswithtypes.com" target="_blank">https://jswithtypes.com</a></small>
+<small><a href="https://www.npmjs.com/package/jswt" target="_blank"><pre><code>npx&nbsp;jswt&nbsp;init</code></pre></a></small>
 
 ---
 
@@ -50,36 +49,10 @@ for Founders & Investors
 
 ---
 
-## [Savvi.Legal](https://savvi.legal)
-
-Wanted:
-
-(Really Good) \
-**Frontend Developer**
-
-Contact:
-
-**<aj@savvi.legal>**
-
----
-
 ## [Dash Incubator](https://github.com/dashhive)
 
 Digital Cash \
 (cryptocurrency to be used as money)
-
----
-
-## [Dash Incubator](https://github.com/dashhive)
-
-Wanted:
-
-(Really Good) \
-**Software Engineers**
-
-Contact:
-
-**coolaj86**
 
 ---
 
