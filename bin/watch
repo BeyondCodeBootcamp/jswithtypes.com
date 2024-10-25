@@ -1,12 +1,10 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 set -u
 
-if ! command -v watchexec; then
-    curl -sS https://webinstall.dev/watchexec@1 | bash
+if ! command -v watchexec > /dev/null; then
+    curl --fail-with-body -sS https://webi.sh/watchexec@1 | sh
     export PATH="$HOME/.local/bin:${PATH}"
 fi
 
-watchexec -e md -w "SLIDES.md" -- bash -c './bin/render'
-
-#watchexec -e md -w "${1}" -- mdslides "$@"
+watchexec -e md -w "SLIDES.md" --project-origin . -- sh -c './bin/render'

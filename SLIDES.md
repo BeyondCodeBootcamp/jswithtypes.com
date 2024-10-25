@@ -1,11 +1,3 @@
-[comment]: # "THEME = white"
-[comment]: # "CODE_THEME = github"
-[comment]: # "controls: false"
-[comment]: # "keyboard: true"
-[comment]: # "markdown: { smartypants: true }"
-[comment]: # "hash: false"
-[comment]: # "respondToHashChanges: false"
-
 ## JS with Types 💪 com
 
 Types without Transpilation
@@ -28,13 +20,12 @@ jswt</a></strong-->
 
 <small><a href="https://jswithtypes.com" target="_blank">https://jswithtypes.com</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
-AJ ONeal <br>
-[@\_beyondcode](https://twitter.com/@_beyondcode) <br>
+AJ ONeal <br> [@\_beyondcode](https://twitter.com/@_beyondcode) <br>
 [youtube.com/coolaj86](https://youtube.com/coolaj86)
 
-[comment]: # "!!!"
+---
 
 Dangerous Wrong Thinker
 
@@ -42,11 +33,11 @@ Equal Opportunity Offender
 
 Technophobic Technologist Extraordinairé
 
-[comment]: # "!!!"
+---
 
 <img src="https://imgs.search.brave.com/vlCRih9NMnPmJXW3kS2_-_mmYkC8_xXEyi8-QaK0qIg/rs:fit:256:256:1/g:ce/aHR0cDovL2ljb25z/Lmljb25hcmNoaXZl/LmNvbS9pY29ucy9h/aGEtc29mdC90cmF2/ZWwvMjU2L3V0aWxp/dHktYXR2LWljb24u/cG5n" />
 
-[comment]: # "!!!"
+---
 
 ## [Savvi.Legal](https://savvi.legal)
 
@@ -57,7 +48,7 @@ for Founders & Investors
 
 <small>(we automate away the stuff founders hate)</small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## [Savvi.Legal](https://savvi.legal)
 
@@ -70,14 +61,14 @@ Contact:
 
 **<aj@savvi.legal>**
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## [Dash Incubator](https://github.com/dashhive)
 
 Digital Cash \
 (cryptocurrency to be used as money)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## [Dash Incubator](https://github.com/dashhive)
 
@@ -90,7 +81,7 @@ Contact:
 
 **coolaj86**
 
-[comment]: # "!!!"
+---
 
 ## JS with Types 💪
 
@@ -106,7 +97,7 @@ npx jswt init
 
 <!-- strong><a href="https://npmjs.org/jswt" target="_blank">NPM: jswt</a></strong -->
 
-[comment]: # "!!!"
+---
 
 ### Useful Links
 
@@ -129,81 +120,80 @@ npx jswt init
 
 </table>
 
-[comment]: # "!!!"
+---
 
 ### Reference Material
 
-- <small><a href="https://jsdoc.app/tags-type">JSDoc: Tags:
-  @type</a></small>
+- <small><a href="https://jsdoc.app/tags-type">JSDoc: Tags: @type</a></small>
 - <small><a href="https://www.typescriptlang.org/docs/handbook/2/everyday-types.html">TypeScript:
   Everyday Types</a></small>
-- <small><a href="https://github.com/giltayar/jsdoc-typing">Gil
-  Tayar: JSDoc Typing</a></small>
+- <small><a href="https://github.com/giltayar/jsdoc-typing">Gil Tayar: JSDoc
+  Typing</a></small>
 - <small><a href="https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks/">Gil
   Tayar: All Benefits, No Drawback</a></small>
 - <small><a href="https://topenddevs.com/podcasts/javascript-jabber/episodes/typing-without-transpilation-the-beauty-of-jsdoc-jsj-489">JavaScript
   Jabber: Typing without Transpilation</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## 💊
 
 Not a Gateway Drug to TypeScript
 
-[comment]: # "!!! data-auto-animate"
+---
 
 Coding like it's 1999
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## 💊
 
 Why Go 🐹 and Zig ⚡️ developers \
 shouldn't give up on JavaScript
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # #0
 
 Philosophy
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Build steps are _not good_.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Build steps are _not good_.
 
 > Slow build steps are _evil_.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Code gen is better \
 > than meta-programming.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Duck typing is good.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Duck typing is good.
 
 > Inheritance is evil.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Better tooling makes \
 > for better developers.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Copy and paste \
 > (and find and replace) \
 > are not bad.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 > Copy and paste \
 > (and find and replace) \
@@ -211,51 +201,49 @@ Philosophy
 
 > Transpilation is evil.
 
-[comment]: # "!!! data-auto-animate"
+---
 
 [**Creeds of Craftsmanship** (.com)](https://creedsofcraftsmanship.com)
 
 <br />
 
-<small><a href="https://en.wikipedia.org/wiki/Unix_philosophy#Origin">The
-Unix Philosophy</a></small> \
-<small><a href="https://github.com/ewjoachim/zen-of-python">Zen
-of Python</a></small> \
-<small><a href="https://go-proverbs.github.io/">Go
-Proverbs</a></small> \
-<small><a href="https://ziglang.org/documentation/master/#Zen">Zen
-of Zig</a></small> \
-<small><a href="https://prettier.io/docs/en/rationale.html">The
-Prettier Rationale</a></small> \
-<small><a href="https://kentcdodds.com/blog/aha-programming">(DRY,
-WET &) AHA Programming</a></small> \
-<small><a href="https://agilemanifesto.org/">The _actual_
-Agile Manifesto</a></small>
+<small><a href="https://en.wikipedia.org/wiki/Unix_philosophy#Origin">The Unix
+Philosophy</a></small> \
+<small><a href="https://github.com/ewjoachim/zen-of-python">Zen of
+Python</a></small> \
+<small><a href="https://go-proverbs.github.io/">Go Proverbs</a></small> \
+<small><a href="https://ziglang.org/documentation/master/#Zen">Zen of
+Zig</a></small> \
+<small><a href="https://prettier.io/docs/en/rationale.html">The Prettier
+Rationale</a></small> \
+<small><a href="https://kentcdodds.com/blog/aha-programming">(DRY, WET &) AHA
+Programming</a></small> \
+<small><a href="https://agilemanifesto.org/">The _actual_ Agile
+Manifesto</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # #1
 
 Types are in the Tooling
 
-[comment]: # "!!! data-auto-animate"
+---
 
 JavaScript has _always_ had types
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # 🦆
 
-[comment]: # "!!! data-auto-animate"
+---
 
 (Static Types are a Lie!)
 
-[comment]: # "!!! data-auto-animate"
+---
 
-</small>(safe languages have always been
-dynamically-typed)</small>
+</small>(safe languages have always been dynamically-typed)</small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## Types of Types
 
@@ -318,17 +306,17 @@ dynamically-typed)</small>
 </tr>
 </table>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## 🦺 🚧
 
 Bad Tools => Bad Types
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # 🔨 🧰
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **JavaScript**
 
@@ -338,11 +326,11 @@ let msg = "Hello, World!";
 let answer = 42;
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **JSDoc**
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **JSDoc**
 
@@ -354,13 +342,13 @@ let msg = "Hello, World!";
 let answer = 42;
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **JSDoc**
 
 Communicate Intent
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **JSDoc**
 
@@ -369,11 +357,11 @@ Communicate Intent
 npm install --location=global jsdoc
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **TSC**
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **TSC**
 
@@ -387,13 +375,13 @@ let answer = "Hello, World!";
 // [E] Type 'string' is not assignable to type 'number'
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **TSC**
 
 Catch, Correct, Classify
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **TSC**
 
@@ -402,17 +390,17 @@ Catch, Correct, Classify
 npm install --location=global typescript
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **TSC**
 
 **T**ype**S**cript **C**hecker
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### JSDoc + TSC Config
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ```sh
 npm init
@@ -431,25 +419,25 @@ mv tsconfig.json jsconfig.json
 --exclude node_modules \
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # 😵‍💫
 
-[comment]: # "!!! data-auto-animate"
+---
 
 too hard
 
 # 🤯🔫
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # ⚡️
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## `jswt`
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## `jswt`
 
@@ -462,19 +450,19 @@ npx jswt init
 npx jswt reexport
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## `jswt`
 
 **JS** **W**ith **T**ypes
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## `jswt`
 
 # JS WT!?
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## `jswt`
 
@@ -494,7 +482,7 @@ foo/
 └── 💪 typings/
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ```sh
 npm run fmt
@@ -502,18 +490,18 @@ npm run lint
 npm run reexport
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 - https://jswithtypes.com
 - https://npmjs.org/jswt
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # #2
 
 JavaDoc and C# had a baby...
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Syntax
 
@@ -523,7 +511,7 @@ JavaDoc and C# had a baby...
  */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Syntax
 
@@ -537,7 +525,7 @@ JavaDoc and C# had a baby...
 /** ... */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Inline Types**
 
@@ -546,7 +534,7 @@ JavaDoc and C# had a baby...
 var msg;
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Inline Parameters**
 
@@ -561,7 +549,7 @@ function greet(greeting = "Hello", { name }) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Struct Definitions**
 
@@ -578,7 +566,7 @@ function greet(greeting = "Hello", { name }) {
 var friend;
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Function Definitions**
 
@@ -601,7 +589,7 @@ async function greet(greeting, other) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Weirdness...**
 
@@ -613,13 +601,13 @@ async function greet(greeting, other) {
 
 # 🤷‍♂️
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## 🪲
 
 <small><a href="https://github.com/microsoft/TypeScript/issues/50274" target="_blank">github.com/microsoft/TypeScript/issues/50274</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 #### ⚠️ `@prop` vs `@param`
 
@@ -638,7 +626,7 @@ function greet(other) {
 greet.foo = "bar";
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Nullish Definitions**
 
@@ -650,7 +638,7 @@ let alive = null;
 let cat;
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Map Types**
 
@@ -658,7 +646,7 @@ let cat;
 /** @type {Object.<String, String>} */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Map Types**
 
@@ -670,7 +658,7 @@ let cat;
 /** @type {Object.<Name, Number>} */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Map Types**
 
@@ -686,7 +674,7 @@ let cat;
 /** @type {Object.<Number ❌, Fruit>} */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Map Types**
 
@@ -706,7 +694,7 @@ let cat;
 /** @type {Object.<String, any ⚠️>} */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Tuple Types**
 
@@ -715,7 +703,7 @@ let cat;
 let [result, err] = await doStuff();
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Tuple Types**
 
@@ -726,7 +714,7 @@ let [result, err] = await doStuff();
 let result = ["follow", { "source": ... }];
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Type Extension**
 
@@ -734,7 +722,7 @@ let result = ["follow", { "source": ... }];
 /** @typedef {PersonBase & PersonExtra} Person */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Type Extension**
 
@@ -746,7 +734,7 @@ let result = ["follow", { "source": ... }];
 /** @typedef {File | Folder | Symlink | Pipe} DirEntry */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Narrowing Functions**
 
@@ -762,7 +750,7 @@ function isFile(dirEntry) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Utility Types**
 
@@ -774,7 +762,7 @@ function isFile(dirEntry) {
 <a href="https://www.typescriptlang.org/docs/handbook/utility-types.html" target="_blank">TypeScript:
 Utility Types</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Utility Types**
 
@@ -790,7 +778,7 @@ Utility Types</a></small>
 <a href="https://www.typescriptlang.org/docs/handbook/utility-types.html" target="_blank">TypeScript:
 Utility Types</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Weirdness...**
 
@@ -803,11 +791,11 @@ Utility Types</a></small>
 
 # 🤷‍♂️
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **_Lots_ of quirks**
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Utility Functions**
 
@@ -821,7 +809,7 @@ function last(arr) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Utility Functions**
 
@@ -836,7 +824,7 @@ function last(arr) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Utility-ish Function**
 
@@ -859,7 +847,7 @@ Person.sanitize = function (p) {
 <small><a href="https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html#template" target="_blank">JSDoc
 Reference: @template</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Import Types**
 
@@ -868,7 +856,7 @@ npm install --save @types/node
 npm install --save @types/express
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Import Types**
 
@@ -889,7 +877,7 @@ function apologize(err, req, res, next) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Reexport Types**
 
@@ -898,18 +886,17 @@ function apologize(err, req, res, next) {
 /** @typedef {import('./users.js').User} User */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # 💯
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # 👏
 
-[comment]: # "!!! data-auto-animate"
+---
 
-- <small><a href="https://jsdoc.app/tags-type">JSDoc: Tags:
-  @type</a></small>
+- <small><a href="https://jsdoc.app/tags-type">JSDoc: Tags: @type</a></small>
 - <small><a href="https://www.typescriptlang.org/docs/handbook/2/everyday-types.html">TypeScript:
   Everyday Types</a></small>
 - <small><a href="https://www.typescriptlang.org/docs/handbook/utility-types.html">TypeScript:
@@ -917,21 +904,21 @@ function apologize(err, req, res, next) {
 - <small><a href="https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html#template" target="_blank">JSDoc
   Reference: @template</a></small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # #3
 
 Deep Dive
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # 🤿
 
-[comment]: # "!!! data-auto-animate"
+---
 
 # ⏱
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### ⚠️ Primitives++
 
@@ -946,7 +933,7 @@ let answers = Uint8Array.from([11, 37, 42]);
 let bytes = Buffer.from([255, 255, 255, 255]);
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### ⚠️ Built-Ins
 
@@ -958,14 +945,14 @@ let matcher = Date.parse("2022-09-22T15:05:00.000-0600");
 let matcher = /^abc$/;
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ⚠️ Syntax vs Semantics
 
 - "Object" _notation_: {}
 - "Array" _notation_: []
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ⚠️ Syntax vs Semantics
 
@@ -974,15 +961,15 @@ let matcher = /^abc$/;
 
 (no intention / meaning)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ⚠️ Types are Semantic
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Structs vs Maps
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Structs
 
@@ -990,7 +977,7 @@ Mr. Potato Head
 
 A "kit" of stuff that goes together
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Structs
 
@@ -1010,7 +997,7 @@ POJO
 let bob = { name: "Bob", age: 42 };
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Map
 
@@ -1018,7 +1005,7 @@ Phone Home Screet
 
 Collection of Like-ish things
 
-[comment]: # "!!! data-auto-animate"
+---
 
 Typically by id, but...
 
@@ -1030,7 +1017,7 @@ let people = {
 };
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Map
 
@@ -1044,7 +1031,7 @@ let people = {
 
 (kinda tuple-ish)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Map
 
@@ -1063,17 +1050,17 @@ people["Jack"] = {};
 // [E] "{}" cannot be assigned to "Person"
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Tuples vs Lists
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Tuples
 
 JS WT!?
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Tuples
 
@@ -1081,7 +1068,7 @@ Unopened Lego Set
 
 "Kit by the Numbers"
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Tuples
 
@@ -1089,7 +1076,7 @@ Struct...
 
 but _indexed_, rather than _named_
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Tuples
 
@@ -1100,7 +1087,7 @@ but _indexed_, rather than _named_
 let [person, err] = await Person.getById(37);
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Tuples (vs Structs)
 
@@ -1112,7 +1099,7 @@ let [p, err] = await Person.getById(37);
 let { person, error } = await Person.getById(37);
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Lists
 
@@ -1120,7 +1107,7 @@ Pokemon Cards
 
 _Ordered_ collection of Like-ish things
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Lists
 
@@ -1131,7 +1118,7 @@ let fruits = ["apple", "banana", "grape"];
 
 (⚠️ moot - it's already inferred)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Lists
 
@@ -1143,7 +1130,7 @@ let fruits = [
 ];
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Enums
 
@@ -1151,7 +1138,7 @@ let fruits = [
 - Type Enums 💪
 - Implied Enums 🦆
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### ~~Value~~ Weak Sauce Enums
 
@@ -1164,7 +1151,7 @@ const (
 )
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 **Weirdness...**
 
@@ -1178,7 +1165,7 @@ const (
 
 `@enum` 🤷‍♂️
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Value Enums
 
@@ -1197,7 +1184,7 @@ function smashFruit(fruitName) {
 smashFruit("monkey");
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Enums
 
@@ -1205,7 +1192,7 @@ For Like-ish things
 
 (things that could go in a Map or List)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Enums
 
@@ -1217,7 +1204,7 @@ For Like-ish things
 /** @typedef {Person|Human} PersonLike */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Enums
 
@@ -1229,7 +1216,7 @@ For Like-ish things
 
 (code smell)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Enums
 
@@ -1245,13 +1232,13 @@ function getImages(opts, cb) {
 }
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Implied Enums
 
 > If it fits it ships!
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Alias
 
@@ -1266,7 +1253,7 @@ let salary = 1_000_000;
 
 (improve documentation)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### ❌ NewType
 
@@ -1281,17 +1268,17 @@ let quantity = savings / price;
 // 💣 Cannot divide Dollars by Cents
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## Polymorphism
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## Polymorphism
 
 😬
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### 👍 Mixins
 
@@ -1304,7 +1291,7 @@ let quantity = savings / price;
 /** @typedef {BasePerson & WithFriends} PersonWithFriends */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Utils
 
@@ -1318,7 +1305,7 @@ let quantity = savings / price;
  */
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Utils
 
@@ -1332,13 +1319,13 @@ Person.hash = function (p) {
 };
 ```
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Utils
 
 # ⚠️
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Utils
 
@@ -1347,7 +1334,7 @@ Person.hash = function (p) {
 > Just because you _can_ \
 > doesn't mean you _should_
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Utils
 
@@ -1363,7 +1350,7 @@ Person.hash = function (p) {
 > Avoid Hasty Abstractions -
 > [Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ### Type Utils
 
@@ -1371,37 +1358,37 @@ Person.hash = function (p) {
 
 > People aren't great at recursion - _Every Juan, Ever_
 
-[comment]: # "!!!"
+---
 
 # 🏊‍♂️ 🫁
 
-[comment]: # "!!!"
+---
 
 # 🏊‍♂️ 🫁
 
-[comment]: # "!!!"
+---
 
 # 🦆
 
 Quack!
 
-[comment]: # "!!!"
+---
 
 # 🦆
 
 Quack!
 
-[comment]: # "!!!"
+---
 
 Q&A
 
-[comment]: # "!!! data-auto-animate"
+---
 
 Like, Sub, & Follow
 
 <small>(if you wannu)</small>
 
-[comment]: # "!!! data-auto-animate"
+---
 
 ## Thanks.
 

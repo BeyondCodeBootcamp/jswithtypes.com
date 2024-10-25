@@ -1,31 +1,18 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 set -u
 
-if ! command -v pyenv; then
-    curl -sS https://webinstall.dev/pyenv | bash
+if ! command -v comrak > /dev/null; then
+    curl --fail-with-body -sS https://webi.sh/comrak | sh
 fi
 
-if [ ! -d "$HOME/.pyenv/versions/3.10.1" ]; then
-    pyenv install -v 3.10.1
-fi
+rm -rf ./docs/
+mkdir -p ./docs/
+cp -RPp ./CNAME ./qrcode.png ./slides.js ./slides.css ./docs/
+{
+    cat ./head.html.tmpl
+    comrak --config-file ./.config/comrak ./SLIDES.md
+    cat ./tail.html.tmpl
+} > ./docs/index.html
 
-pyenv local 3.10.1
-
-if ! command -v mdslides; then
-    python -m pip install git+https://gitlab.com/da_doomer/markdown-slides.git
-fi
-
-mdslides SLIDES.md
-rsync -avhP SLIDES/ docs/
-rm -rf SLIDES/
-
-#mdslides "$@"
-
-#my_dir="$(basename "$1" ".md")"
-#rm -rf "${my_dir}/"{dist,plugin}
-
-#pushd "${my_dir}" > /dev/null
-#ln -s ../dist .
-#ln -s ../plugin .
-#popd > /dev/null
+echo ./docs/index.html
